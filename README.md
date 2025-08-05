@@ -76,10 +76,6 @@ The model outputs:
 └─ README.md              # Project documentation (this file)
 ```
 
-## License
 
-MIT – free to use, modify, and distribute.
-
----
 
 Built with ❤ using Streamlit and scikit-learn. Enjoy predicting!
